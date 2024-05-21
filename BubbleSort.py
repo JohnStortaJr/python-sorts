@@ -1,7 +1,17 @@
 # A basic implementation of a bubble sort
-# These sorts are very simple, but also very slow since 
-# the list must be iterated through completely multiple times
+
+# A bubble sort iterates through each element in the list and compares
+# it with the next item. If the elements are out of order, then they are
+# swapped. With each iteration through the list, the elements become
+# more and more sorted until, eventually, all elements are in order and
+# no swaps are required.
+
+# Bubble sorts are very simple, but also very slow since 
+# the list must be iterated through completely multiple times.
+
 # As list size grows, compute time increases
+# Big O: O(n^2) where n is the number of elements in the list
+
 # NOTE: This coded is meant to serve as a tutorial so it has
 #       more comments than would normally be found
 
