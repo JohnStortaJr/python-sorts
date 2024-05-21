@@ -12,11 +12,11 @@
 # A selection sort will iterate once for each element in the list
 # Big O: O(n^2) where n is the number of elements in the list
 
-# NOTE: This coded is meant to serve as a tutorial so it has
+# NOTE: This code is meant to serve as a tutorial so it has
 #       more comments than would normally be found
 
-numberList = [54,78,23,900,1,65,87,23,75,26,435,34,768,34,6,78,93]
-iterationCounter = 0    # This is used only to report on how the number of iterations
+numberList = [54,78,23,90,1,65,87,23,75,26,43,34,68,34,6,78,93]
+iterationCounter = 0    # This is only used to report on the number of iterations
 unsortedIndex = 0       # The entire list is presumed to be unsorted
 currentIndex = 0        # Start at the beginning of the list
 
