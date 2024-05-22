@@ -1,5 +1,5 @@
 # python-sorts
-<img src="SortingAlgorithms.png" alt="Sorting Algorithm Graphical Representation" width="400">
+<img src="SortingAlgorithms.png" alt="Sorting Algorithm Graphical Representation" width="600">
 Collection of sort algorithms implemented with Python
 
 These implementations are NOT meant to be the most efficient, the cleanest, or the best.
